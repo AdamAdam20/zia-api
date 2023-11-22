@@ -5,8 +5,8 @@
     "Nodejs",
     "express"
   ],
-  "website": "https://animezia.com/",
-  "repository": "https://github.com/warlordsnet/zia-api",
+  "website": "https://animix.rf.gd/",
+  "repository": "https://github.com/AdamAdam20/zia-api",
   "logo": "https://cdnzia.pages.dev/favicon.ico",
   "success_url": "/welcome"
 
